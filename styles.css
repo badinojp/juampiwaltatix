@@ -4,5 +4,15 @@ html, body {
 
 #footer {
     position: absolute;
-    bottom: 0px;
+    bottom: 20px;
+    width:30%;    
+    margin-left:35%;
+    margin-right:25%;
+    background: black;
+      
+
 }
+
+
+
+
