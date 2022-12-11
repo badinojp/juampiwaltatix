@@ -1,5 +1,5 @@
-html, body {
-    background: black;
+#dashboard {
+    text-align: center;
 }
 
 #footer {
@@ -9,8 +9,6 @@ html, body {
     margin-left:35%;
     margin-right:25%;
     background: black;
-      
-
 }
 
 
